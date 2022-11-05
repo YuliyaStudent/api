@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import static io.restassured.RestAssured.given;
 
-public class SuccessfulTests {
+public class jSONTest {
 
     @Test
     public void jsonTest (){
